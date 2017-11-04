@@ -12,7 +12,7 @@
 set -e
 
 # The REDHAWK Version
-export RH_VERSION=2.0.6
+export RH_VERSION=2.1.1
 
 # This directory
 THIS_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
